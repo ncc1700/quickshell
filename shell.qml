@@ -9,7 +9,7 @@ PanelWindow {
     left: true
     right: true
   }
-  color: '#99222222'
+  color: '#991b1b1b'
   implicitHeight: 30
   Text {
     padding: 10
